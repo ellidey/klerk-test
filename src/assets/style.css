@@ -1,0 +1,7 @@
+.tree .input-wrapper {
+    display: none !important;
+}
+
+.tree .before {
+    margin: 0 5px;
+}
